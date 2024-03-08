@@ -1,3 +1,6 @@
+--Portfolio Project to showcase SQL skills.
+--I utilised COVID-19 dataset available at https://ourworldindata.org/covid-deaths (retrieved on 20-Feb-2024).
+
 SELECT *
 FROM PortfolioProject..CovidDeaths$
 ORDER BY 3, 4;
